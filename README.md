@@ -23,8 +23,15 @@ Each subfolder contains the following files:
 * _snake_game_AI.py_: Run this file to see AI play the snake game.
 * _snake.keras_: stores the trained neural network.
 
-## Credits
-Inspired from various sources are available online for training the game with reinforcement learning. 
+## Requirements
+Following libraries are used for developing the project. Please use the below versions or versions compatible with them:
+* Python 3.11.1
+* Tesorflow 2.12.0
+* Numpy 1.23.5
+* Matplotlib 3.7.0
 
-## Work done by Pranesh Raghavendran
+## Credits
+Inspired by the "Machine Learning Specialization" course by Deeplearning.AI in Coursera and various online sources for training the game with reinforcement learning. Experimented with own definitions for reward functions, state values, etc., and designed the network architecture accordingly.
+
+### Work done by Pranesh Raghavendran
 

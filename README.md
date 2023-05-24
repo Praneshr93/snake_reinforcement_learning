@@ -33,5 +33,6 @@ Following libraries are used for developing the project. Please use the below ve
 ## Credits
 Inspired by the "Machine Learning Specialization" course by Deeplearning.AI in Coursera and various online sources for training the game with reinforcement learning. Experimented with own definitions for reward functions, state values, etc., and designed the network architecture accordingly.
 
-### Work done by Pranesh Raghavendran
-
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Copyright Pranesh Raghavendran
